@@ -1,0 +1,58 @@
+﻿{
+  "id": "1",
+  "name": "resultado 1",
+  "projectInfo": {
+    "id": "61a234e81646976d0262a421",
+    "uniqueId": "2539fea1-6f09-4bbe-82b9-f4f413b326ca-0000747b",
+    "uniqueVersion": "1d25a200-37b1-487a-aa6e-be45f882be21",
+    "versionId": 447
+  },
+  "floor": {
+    "id": "61815edb42143f52980f93bf",
+    "name": "Nível 1",
+    "height": {
+      "id": "61815edb42143f52980f93c4",
+      "absolutValue": "7",
+      "measurementUnit": "METERS"
+    },
+    "type": "INTERMEDIATE",
+    "units": [
+      {
+        "id": "61815edb42143f52980f93c5",
+        "name": "fake_data",
+        "number": "fake_data",
+        "rooms": [
+          {
+            "id": "61815edb42143f52980f93c6",
+            "name": "fake_data",
+            "number": "fake_data"
+          }
+        ]
+      }
+    ],
+    "elementInfo": {
+      "uniqueId": "caebf3df-1569-4ae2-93b2-149ceec97be9-00000163",
+      "uniqueVersion": "1aa64c10-55df-4fa4-a05e-2cc139c38db7",
+      "versionId": 512
+    }
+  },
+  "room": null,
+  "revitElements": [
+    {}
+  ],
+  "criteria": [
+    {
+      "id": "61815edb42143f52980f93c1",
+      "name": "fake_data",
+      "value": "fake_data",
+      "criterionDataType": {
+        "id": "61815edb42143f52980f93c7"
+      }
+    }
+  ],
+  "quantity": {
+    "id": "61815edb42143f52980f93c2",
+    "absolutValue": "fake_data",
+    "measurementUnit": "METERS"
+  }
+}

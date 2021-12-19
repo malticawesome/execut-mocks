@@ -1,0 +1,38 @@
+﻿{
+  "id": "1",
+  "projectGeneralInfo": {
+    "id": "61a234e81646976d0262a420",
+    "name": "Projeto simples",
+    "documentInfo": {
+      "uniqueId": "2539fea1-6f09-4bbe-82b9-f4f413b326ca-0000747b",
+      "uniqueVersion": "1d25a200-37b1-487a-aa6e-be45f882be21",
+      "versionId": 447
+    },
+    "presets": [
+      {
+        "id": "61a234e81646976d0262a422",
+        "name": "preset A",
+        "value": "WALL_COVERING",
+        "options": [
+          "WALL_COVERING 1",
+          "WALL_COVERING 2",
+          "WALL_COVERING 3"
+        ]
+      }
+    ],
+    "terrain": {
+      "id": "61a234e81646976d0262a427",
+      "name": "Terreno 1",
+      "location": "fake_data",
+      "area": 97.83
+    },
+    "objectInfo": {
+      "bucketKey" : "rqodjejxqjw7ryc4lzy4offvc0apa4jl_tutorial_bucket",
+      "objectId" : "urn:adsk.objects:os.object:rqodjejxqjw7ryc4lzy4offvc0apa4jl_tutorial_bucket/projeto%20simples.rvt",
+      "objectKey" : null,
+      "sha1" : null,
+      "contentType" : null,
+      "location" : null
+    }
+  }
+}

@@ -1,0 +1,16 @@
+
+{
+  "request": {
+    "urlPathPattern": "/execut/results/1",
+    "method": "GET",
+    "queryParameters": {
+    }
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "execut/results/result1.json"
+  }
+}

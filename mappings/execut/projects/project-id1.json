@@ -1,0 +1,16 @@
+
+{
+  "request": {
+    "urlPathPattern": "/execut/projects/1",
+    "method": "GET",
+    "queryParameters": {
+    }
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "execut/projects/project-id1.json"
+  }
+}

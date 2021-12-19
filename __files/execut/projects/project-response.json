@@ -1,0 +1,517 @@
+﻿{
+  "rows": [
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "createdAt": "string",
+      "updatedAt": "string",
+      "deletedAt": "string",
+      "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "importHash": "string",
+      "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "name": "string",
+      "levels": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "createdAt": "string",
+          "updatedAt": "string",
+          "deletedAt": "string",
+          "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "importHash": "string",
+          "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "string",
+          "elevation": 0,
+          "results": [
+            {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "createdAt": "string",
+              "updatedAt": "string",
+              "deletedAt": "string",
+              "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "importHash": "string",
+              "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "name": "string",
+              "level": "string",
+              "executElements": [
+                "string"
+              ],
+              "criteria": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "createdAt": "string",
+                  "updatedAt": "string",
+                  "deletedAt": "string",
+                  "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "importHash": "string",
+                  "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "name": "string",
+                  "value": "string"
+                }
+              ]
+            }
+          ],
+          "stages": [
+            {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "createdAt": "string",
+              "updatedAt": "string",
+              "deletedAt": "string",
+              "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "importHash": "string",
+              "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "name": "string",
+              "groups": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "createdAt": "string",
+                  "updatedAt": "string",
+                  "deletedAt": "string",
+                  "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "importHash": "string",
+                  "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "name": "string",
+                  "results": [
+                    {
+                      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "createdAt": "string",
+                      "updatedAt": "string",
+                      "deletedAt": "string",
+                      "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "importHash": "string",
+                      "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "name": "string",
+                      "level": "string",
+                      "executElements": [
+                        "string"
+                      ],
+                      "criteria": [
+                        {
+                          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "createdAt": "string",
+                          "updatedAt": "string",
+                          "deletedAt": "string",
+                          "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "importHash": "string",
+                          "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "name": "string",
+                          "value": "string"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "createdAt": "string",
+          "updatedAt": "string",
+          "deletedAt": "string",
+          "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "importHash": "string",
+          "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "string",
+          "polygon": [
+            {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "createdAt": "string",
+              "updatedAt": "string",
+              "deletedAt": "string",
+              "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "importHash": "string",
+              "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "levels": [
+            {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "createdAt": "string",
+              "updatedAt": "string",
+              "deletedAt": "string",
+              "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "importHash": "string",
+              "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "name": "string",
+              "elevation": 0,
+              "results": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "createdAt": "string",
+                  "updatedAt": "string",
+                  "deletedAt": "string",
+                  "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "importHash": "string",
+                  "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "name": "string",
+                  "level": "string",
+                  "executElements": [
+                    "string"
+                  ],
+                  "criteria": [
+                    {
+                      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "createdAt": "string",
+                      "updatedAt": "string",
+                      "deletedAt": "string",
+                      "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "importHash": "string",
+                      "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "name": "string",
+                      "value": "string"
+                    }
+                  ]
+                }
+              ],
+              "stages": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "createdAt": "string",
+                  "updatedAt": "string",
+                  "deletedAt": "string",
+                  "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "importHash": "string",
+                  "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "name": "string",
+                  "groups": [
+                    {
+                      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "createdAt": "string",
+                      "updatedAt": "string",
+                      "deletedAt": "string",
+                      "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "importHash": "string",
+                      "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "name": "string",
+                      "results": [
+                        {
+                          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "createdAt": "string",
+                          "updatedAt": "string",
+                          "deletedAt": "string",
+                          "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "importHash": "string",
+                          "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "name": "string",
+                          "level": "string",
+                          "executElements": [
+                            "string"
+                          ],
+                          "criteria": [
+                            {
+                              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                              "createdAt": "string",
+                              "updatedAt": "string",
+                              "deletedAt": "string",
+                              "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                              "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                              "importHash": "string",
+                              "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                              "name": "string",
+                              "value": "string"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "stageLevels": [
+            {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "createdAt": "string",
+              "updatedAt": "string",
+              "deletedAt": "string",
+              "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "importHash": "string",
+              "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "level": {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "createdAt": "string",
+                "updatedAt": "string",
+                "deletedAt": "string",
+                "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "importHash": "string",
+                "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "name": "string",
+                "elevation": 0,
+                "results": [
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "createdAt": "string",
+                    "updatedAt": "string",
+                    "deletedAt": "string",
+                    "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "importHash": "string",
+                    "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "name": "string",
+                    "level": "string",
+                    "executElements": [
+                      "string"
+                    ],
+                    "criteria": [
+                      {
+                        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "createdAt": "string",
+                        "updatedAt": "string",
+                        "deletedAt": "string",
+                        "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "importHash": "string",
+                        "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "name": "string",
+                        "value": "string"
+                      }
+                    ]
+                  }
+                ],
+                "stages": [
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "createdAt": "string",
+                    "updatedAt": "string",
+                    "deletedAt": "string",
+                    "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "importHash": "string",
+                    "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "name": "string",
+                    "groups": [
+                      {
+                        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "createdAt": "string",
+                        "updatedAt": "string",
+                        "deletedAt": "string",
+                        "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "importHash": "string",
+                        "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "name": "string",
+                        "results": [
+                          {
+                            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                            "createdAt": "string",
+                            "updatedAt": "string",
+                            "deletedAt": "string",
+                            "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                            "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                            "importHash": "string",
+                            "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                            "name": "string",
+                            "level": "string",
+                            "executElements": [
+                              "string"
+                            ],
+                            "criteria": [
+                              {
+                                "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                                "createdAt": "string",
+                                "updatedAt": "string",
+                                "deletedAt": "string",
+                                "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                                "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                                "importHash": "string",
+                                "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                                "name": "string",
+                                "value": "string"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "stages": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "createdAt": "string",
+                  "updatedAt": "string",
+                  "deletedAt": "string",
+                  "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "importHash": "string",
+                  "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "name": "string",
+                  "groups": [
+                    {
+                      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "createdAt": "string",
+                      "updatedAt": "string",
+                      "deletedAt": "string",
+                      "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "importHash": "string",
+                      "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "name": "string",
+                      "results": [
+                        {
+                          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "createdAt": "string",
+                          "updatedAt": "string",
+                          "deletedAt": "string",
+                          "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "importHash": "string",
+                          "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                          "name": "string",
+                          "level": "string",
+                          "executElements": [
+                            "string"
+                          ],
+                          "criteria": [
+                            {
+                              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                              "createdAt": "string",
+                              "updatedAt": "string",
+                              "deletedAt": "string",
+                              "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                              "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                              "importHash": "string",
+                              "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                              "name": "string",
+                              "value": "string"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "executElements": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "createdAt": "string",
+          "updatedAt": "string",
+          "deletedAt": "string",
+          "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "importHash": "string",
+          "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "results": [
+            {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "createdAt": "string",
+              "updatedAt": "string",
+              "deletedAt": "string",
+              "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "importHash": "string",
+              "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "name": "string",
+              "level": "string",
+              "executElements": [
+                "string"
+              ],
+              "criteria": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "createdAt": "string",
+                  "updatedAt": "string",
+                  "deletedAt": "string",
+                  "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "importHash": "string",
+                  "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "name": "string",
+                  "value": "string"
+                }
+              ]
+            }
+          ],
+          "element": "string"
+        }
+      ],
+      "stages": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "createdAt": "string",
+          "updatedAt": "string",
+          "deletedAt": "string",
+          "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "importHash": "string",
+          "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "string",
+          "groups": [
+            {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "createdAt": "string",
+              "updatedAt": "string",
+              "deletedAt": "string",
+              "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "importHash": "string",
+              "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "name": "string",
+              "results": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "createdAt": "string",
+                  "updatedAt": "string",
+                  "deletedAt": "string",
+                  "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "importHash": "string",
+                  "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "name": "string",
+                  "level": "string",
+                  "executElements": [
+                    "string"
+                  ],
+                  "criteria": [
+                    {
+                      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "createdAt": "string",
+                      "updatedAt": "string",
+                      "deletedAt": "string",
+                      "createdBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "updatedBy": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "importHash": "string",
+                      "tenant": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "name": "string",
+                      "value": "string"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "count": 0
+}

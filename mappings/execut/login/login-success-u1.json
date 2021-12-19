@@ -1,0 +1,65 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "urlPathPattern": "/execut/login",
+        "method": "POST",
+        "bodyPatterns": [
+          {
+            "equalToJson": {
+              "username": "u1",
+              "password": "u1"
+            }
+          }
+        ]
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFileName": "execut/login/login-success.json"
+      }
+    },
+    {
+      "request": {
+        "urlPathPattern": "/execut/login",
+        "method": "POST",
+        "bodyPatterns": [
+          {
+            "equalToJson": {
+              "username": "u2",
+              "password": "u2"
+            }
+          }
+        ]
+      },
+      "response": {
+        "status": 401,
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "urlPathPattern": "/execut/login",
+        "method": "POST",
+        "bodyPatterns": [
+          {
+            "equalToJson": {
+              "username": "u3",
+              "password": "u3"
+            }
+          }
+        ]
+      },
+      "response": {
+        "status": 500,
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  ]
+}
